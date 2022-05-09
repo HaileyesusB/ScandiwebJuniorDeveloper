@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f2ce6c2-59c7-4838-88cc-0bfb2771e354" name="localhost" url="http://localhost:50/haileyesus.belew.com">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\haileyesus.belew.com" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

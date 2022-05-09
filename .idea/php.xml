@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="localhost" id="78a1b589-849d-47e4-bc7d-2f7d7dd0c2fa" name="localhost" port="50" />
+    </servers>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="PHPUNIT_PHAR" configuration_file_path="$PROJECT_DIR$/phpunit.phar" custom_loader_path="$PROJECT_DIR$/phpunit.phar" phpunit_phar_path="$PROJECT_DIR$/phpunit.phar" />
+    </phpunit_settings>
+  </component>
+</project>

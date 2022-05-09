@@ -1,0 +1,32 @@
+body{
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+}
+#BookInputs, #FurnituresInputs,#DvdInputs{
+  display:none;
+}
+.content{
+  min-height:600px;
+  margin-bottom: 2%;
+}
+.Cutter{
+  grid-template-columns: 45% 45%;
+  display: grid;
+  grid-column-gap: 5%;
+}
+.footer{
+
+}
+.allItems{
+  margin: 1%;
+  grid-template-columns: 24% 24% 24% 24%;
+  display: grid;
+  grid-column-gap:1%;
+}
+.itembox{
+  padding: 3%;
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+}
