@@ -13,6 +13,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -39,7 +42,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../haileyesus.belew.com" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -84,6 +87,7 @@
       <workItem from="1651661049704" duration="6616000" />
       <workItem from="1651667777812" duration="557000" />
       <workItem from="1651668441394" duration="14338000" />
+      <workItem from="1652250018830" duration="727000" />
     </task>
     <servers />
   </component>
